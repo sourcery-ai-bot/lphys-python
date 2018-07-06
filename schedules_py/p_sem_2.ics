@@ -1,0 +1,416 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:andrey.rakhubovsky@gmail.com
+BEGIN:VEVENT
+SUMMARY:S2.1 Chair: Wilhelm Becker (Germany)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 P Agostini "Argon ATI Plateau with a Twist (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T114000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 D Bauer "High Harmonic Generation\, Symmetry and Topology (in
+ vited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T114000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T120500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 H Drüeke "Robustness of Topological Effects in High-Harmonic
+  Generation by Linear Chains (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T120500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T122000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.2 Chair: Dieter Bauer (Germany)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.2 M F Ciappina "Extending Conventional HHG and ATI Limits Using
+  Plasmonic-Enhanced Fields (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T142500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.2 L Ortmann "Emergence of a Higher-Energy Structure in Strong-F
+ ield Ionization with Inhomogeneous Electric Fields"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T142500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T144500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.2 T Pfeifer "Imaging Electronic and Structural Processes of Mol
+ ecules Interacting with Intense Optical and XUV Fields (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T144500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.2 S Zayko "Nanoscale Magnetic Imaging Using High-Harmonic Radia
+ tion (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T151500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T154500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.2 M Isinger "Photoionization in the Time and Frequency Domain"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T154500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.3 Chair: Howard Reiss (Germany)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T183000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.3 C Alexandridi "Attosecond Spectroscopy: Ionization Dynamics o
+ f Argon Close to Strong Structural Features (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T165500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.3 M Kübel "Streak Camera for Strong-Field Ionization and Orbit
+ al Imaging (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T165500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T172500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.3 X Y Lai "Structural Imaging and Ultrafast Photoelectron Dynam
+ ics of Atoms and Molecules in the Strong Laser Fields (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T172500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T174500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.3 Y Liu "Attoclock Photoelectron Interferometry with Two-Color 
+ Corotating Circular Fields (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T174500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T180500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.3 S N Balybin "Peculiarities of Atomic Ionization in Multiphoto
+ n Squeezed Light"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T180500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T182500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.4 Chair: Alexander Popov (Russia)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.4 H R Reiss "Potentials are Primary in Electrodynamics and Fiel
+ ds are Secondary (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T114000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.4 N Rohringer "Stimulated X-Ray Emission Spectroscopy for Chemi
+ cal Analysis (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T114000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T121000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.5 Chair: S
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.5 U Eichmann "Ultrafast Atomic and Molecular Excitation in Stro
+ ng Laser Fields (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T143000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.5 R Kienberger "Measuring the Absolute Time Delay of Photoelect
+ rons from Solids (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T143000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T145500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.5 B Schütte "Extreme-Ultraviolet Refractive Optics (invited ta
+ lk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T145500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T152500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.5 K Krajewska "Electron Bessel States in High-Energy Ionization
+  (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T152500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T155000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.5 S Selstø "Solving the Time-Dependent Dirac Equation (invited
+  talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T155000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T162000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.6 Chair: Carla Figueira De Morisson Faria (UK)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.6 E Constant "Blue Rabbitt and Signature of Macroscopic Effects
+  in Attosecond Photoionization Gas Phase Experiments (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T114500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.6 K Liu "Drifted Ionization Times of Atomic Current-Carrying Or
+ bitals in Elliptically Polarized Laser Fields"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T114500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T120500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.6 V V Strelkov "Attosecond Metrology Using Two-Photon Resonant 
+ Raman-Type Transition (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T120500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.7 Chair: Dejan Milo
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.7 G Sansone "Attosecond Pulses Using a Seeded FEL (invited talk
+ )"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T143000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.7 A S Johnson "High-Flux Soft X-Ray Attosecond Pulse Generation
+  in the Overdriven Limit (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T143000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T145500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.7 M Ruberti "Time Dependent B-Spline ADC: Many-Electron Theory 
+ for Attosecond Electron Dynamics in Strong Laser Fields (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T145500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T152500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.7 T Morishita "Adiabatic Theory of Strong-Field Photoelectron M
+ omentum Distributions Near a Backward Rescattering Caustic (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T152500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T155500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.8 Chair: Ulli Eichmann (Germany)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T183000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.8 J Biegert "Imaging Molecular Structural Changes with One Elec
+ tron (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T165500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.8 S Chatterjee "X-Ray Induced Interference of Auger Electrons i
+ n the Common Continuum of Multiple Core-Excited States (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T165500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T171000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.8 M Khokhlova "Coherent Control of Auger Decay"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T171000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T172500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.8 C Figueira de Morisson Faria "Recolliding Quantum Orbits in P
+ hotoelectron Holography Beyond the Strong-Field Approximation (invited tal
+ k)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T172500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T175000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.8 A S Maxwell "Treating Branch Cuts in Quantum Trajectory Model
+ s for Photoelectron Holography"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T175000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T182000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.8 L Volpe "Laser-Driven Particle Sources @ CLPU\, First Commiss
+ ion Experiments (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T182000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T184500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.9 Chair: Sergey Popruzhenko (Russia)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T103000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.9 A F Starace "Doubly-Excited State Effects on Two-Photon Doubl
+ e Ionization of Helium by Time-Delayed\, Oppositely Circularly-Polarized A
+ ttosecond Pulses (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T103000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T105500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.9 A V Bogatskaya "New Approach to the Problem of THz Generation
+  by Intense Two-Colour Laser Fields"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T105500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T111500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.9 A Emmanouilidou "Nucleus-Assisted Non-Sequential Double Ioniz
+ ation as a Gate to Anti-Correlated Two Electron Escape (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T114500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.9 D B Milošević "Strong-Field Ionization of Linear Molecules 
+ by a Bichromatic Elliptically Polarized Laser Field with Coplanar Counterr
+ otating or Corotating Components of Different Frequencies (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T114500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T121000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.9 J Z Kaminski "Coulomb-Corrected Strong Field Approximation Wi
+ thout Singularities and Branching Points (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T121000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 Chair: Anthony F Starace (USA)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 W Becker "Channel-Closing Effects in Multiphoton and Tunnelin
+ g Ionization by a Bicircular Laser Field (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T142500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 D K Efimov "Strong Field Atomic Ionization: from Two- to Thre
+ e-Electron Models (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T142500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T144500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 A S Kornev "Laser-Induced Deformation of Triatomic Molecules:
+  Influence on Tunnel Ionization"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T144500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T150500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 S V Popruzhenko "Terahertz Radiation from Atomic Gases Driven
+  by Intense Circularly Polarized Mid-Infrared Laser Pulses (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T150500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T153000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 S Varró "Symmetric Entangled Coherent States Yield Ideal Qua
+ ntum Attosecond Pulses (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T155500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 Chair: Katarzyna Krajewska (Poland)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T193000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 C H Keitel "Under-the-Tunneling-Barrier Quantum Dynamics in S
+ trong-Field Ionization (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T165000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 K Z Hatsagortsyan "Origin of High Energy Enhancement of Photo
+ electron Spectra in Tunneling Ionization (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T165000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T171500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 I Yu Kostyukov "Field Ionization in Extremely Intense Laser P
+ ulses"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T173500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 X Wang "Longitudinal Momentum of the Electron at the Tunnelin
+ g Exit (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T173500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 Y Y Chen "Gamma-Ray Beams with Large Orbital Angular Momentum
+  via Nonlinear Compton Scattering with Radiation Reaction"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T181500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 C P Schulz "Laser-Driven Electron Rescattering in the Molecul
+ ar Frame: Separation of Strong-Field Ionization Continua (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T181500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T184000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 A S Wyatt "Few Cycle Optical Parametric Amplification in the 
+ MIR (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T184000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T191000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 E S Khramov "Compton Scattering of Ultrashort X-Ray Pulses on
+  Atoms of Noble Gases"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T191000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T192000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 Chair: Eric Constant (France)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T091500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T104500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 V A Tulsky "Revealing Coherent Information from a Photoelectr
+ on Spectrum of a Complex Target"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T091500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T093500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 K H Meiwes-Broer "Coulomb Explosion of Metal Clusters"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T093500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T100000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 S Biswas "Photoemission Delay at Giant Resonances in Molecule
+ s (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T100000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T103000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 Chair: Giuseppe Sansone (Germany)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 J Daněk "Coulomb Focusing Beyond the Dipole Limit in Strong-
+ Field Ionization"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T113500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 D Hanstorp "Laser Spectroscopy of Negative Ions (invited talk
+ )"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T113500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T120500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 K F Mak "Multi-Octave-Spanning Simultaneous Infrared Coverage
+  Driven by Emerging 2 μm Laser Technologies (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T120500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2.1 T Ozaki "High-Order Harmonics and the Autoionizing State (inv
+ ited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T142500
+END:VEVENT
+END:VCALENDAR

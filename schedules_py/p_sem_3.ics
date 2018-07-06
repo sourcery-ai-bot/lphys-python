@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:andrey.rakhubovsky@gmail.com
+BEGIN:VEVENT
+SUMMARY:S3.1 Chair: Tatiana Mogilnaya (Russia) and Sergei Sokolovski (UK)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S3.1 B Wacogne "Calibration Free Fluorescence pH Fiber Optic Micro
+ sensor (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T114500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S3.1 A Volkmer "Subcellular Quantification of Nucleic Acids by Ram
+ an Microspectroscopy Imaging (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T114500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T121500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S3.1 A S Kuryanova "Photocatalytic Activity Solubilizing Pluronic 
+ F-127 Is a Steroid Derived Pyropheophorbide a"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T121500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S3.2 Chair: Ekaterina Borisova (Bulgaria) and Bruno Wacogne (Franc
+ e)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S3.2 Z Harman "Laser-Produced High-Quality X-Ray Beams for Medical
+  Purposes (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T143000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S3.2 A A Kolomenski "Spectroscopic Detection of Biomarkers in Exha
+ led Breath (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T143000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T150000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S3.2 S Sokolovski "Emerging Photodynamics Applications in Red and 
+ Near Infrared Spectrum: Cancer Treatment\, Blood Brain Barrier Opening and
+  Neuronal Photobiomodulation (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T153000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S3.2 G P Tassi "The Percutaneous Laser Disc Decompression for Slip
+ ped Disc According to the Choy’s Method: Personal Experience on 4\,000 P
+ atients and Long Follow Up"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T155000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S3.3 Chair: Zoltan Harman (Germany) and Andreas Volkmer (Germany)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T183000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S3.3 T Yu Moguilnaya "Application Of The Coherent Spectroscopy Met
+ hod For The Study Of Biosensor Test Systems Based On Nanomarkers (invited 
+ talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T170000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S3.3 E Borisova "Skin Cancer Detection Using Steady-State and Time
+ -Resolved Fluorescence Techniques (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T173000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S3.3 O V Khasanova "Photocatalitic Activity щf Chlorine Complexes
+  цith Polyvinilpyrrolidon фnd Polysaccharides фs Agents аor Antibacter
+ ial Photodynamic Therapy"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T173000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T175000
+END:VEVENT
+END:VCALENDAR

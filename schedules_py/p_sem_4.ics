@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:andrey.rakhubovsky@gmail.com
+BEGIN:VEVENT
+SUMMARY:S4.1 Chair: Olga Kosareva (Russia)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T183000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S4.1 B Alonso "Tailoring the Spatio-Temporal Distribution of Diffr
+ active Focused Ultrashort Pulses Through Pulse Shaping"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T164500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S4.1 A Pirri "Spectroscopic Properties and Laser Performance of 3 
+ at.% Yb:Y2O3 and 6 at.% Yb:LuY2O3 Ceramics"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T164500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T170000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S4.1 V B Morozov "High Peak-Power Picoseconds Laser Pulses Generat
+ ion at Aberrational Lens and Gain Saturating"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T172000
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:andrey.rakhubovsky@gmail.com
+BEGIN:VEVENT
+SUMMARY:S5.1 Chair: Vladimir Makarov (Russia)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.1 A Mysyrowicz "Lasing Without Population Inversion in Air (inv
+ ited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T114000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.1 A Couairon "Filamentary Deposition of Laser Energy in Glasses
+  with Bessel Beams (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T114000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T120500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.1 S Tzortzakis "Extreme THz Fields From Laser Filaments (invite
+ d talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T120500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.2 Chair: Andr
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.2 G Steinmeyer "Intrapulse Coherence of Laser Filaments (invite
+ d talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T142500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.2 A Houard "Femtosecond Laser Filament as a Supersonic Spike"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T142500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T145000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.2 P Polynkin "In-Line Spectral Interferometry in Infrared Laser
+  Filaments in Gases (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T145000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.2 Y Liu "Resonance-Enhanced Harmonics from Air Plasma Pumped by
+  Mid-Infrared Femtosecond Pulses (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T151500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T154000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.2 O G Kosareva "Nonlinearly Enhanced Linear Absorption and Rama
+ n Redshift for Infrared Filamentation in Atmospheric Air (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T154000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.3 Chair: Stelios Tzortzakis (Greece)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T183000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.3 V B Morozov "Spectroscopic Characterization of Surface Adsorb
+ ate and Liquid Clusters in Small Mesopores (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T165000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.3 A Dogariu "Standoff Detection and Optical Diagnostics via Coh
+ erent Raman Spectroscopy"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T165000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T171000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.3 A Nguyen "Production of THz Radiation from Mid- and Far-Infra
+ red Two-Color Femtosecond Pulses in Air (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T171000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T173500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.3 E Siminos "Generation of Intense Mid-Infrared Sub-Cycle Pulse
+ s by Electron Beam Driven Amplification of THz Radiation (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T173500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T180000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.3 A Popov "Generation and Amplification of the THz Radiation by
+  Intense Two-Color Laser Fields (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T182000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.3 V I Kovalev "Peculiarities of the Pump-Probe Technique for Br
+ illouin Scattering Spectroscopy"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T182000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T183500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.4 Chair: G
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.4 J-P Wolf "Bound States of Free Electrons (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T114000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.4 C M Heyl "mW-Level Extreme Ultraviolet Frequency Combs (invit
+ ed talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T114000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T120500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.4 C L Arnold "Spatiotemporal Characterization and Optimization 
+ of a High Repetition Rate OPCPA Laser for Applications in Attosecond Scien
+ ce (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T120500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.5 Chair: Arnaud Couairon (France)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.5 P Dombi "Ultrasensitive Near-Field Probing with Ultrafast Non
+ linear Photoemission (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T142500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.5 G Duchateau "Modeling of the Electron Dynamics in Realistic D
+ ielectric Materials Induced by Femtosecond Laser Pulses (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T142500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T145000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.5 W Liu "Multi-Color Laser Generation in Glass by Femtosecond L
+ aser Filamentation (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T145000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.5 E E Orlova "Shaping the Beam of Subwavelength Wire Lasers (in
+ vited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T151500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T154000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.5 D E Shipilo "Phase Barrier for Electron Density Enhancement i
+ n Femtosecond Filamentation"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T154000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T155500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.5 D V Mokrousova "Third Harmonic Yield Enhancement by Several B
+ eams Fusion"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T155500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T161000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.6 Chair: Pavel Polynkin (USA)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.6 T-J Wang "New Effects of Femtosecond Laser Filament Interacti
+ on with High Voltage Coronas (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T114000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.6 H Xu "Remote Fabrication of Black Silicon Using Femtosecond L
+ aser Filaments (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T114000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T120500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.6 B Alonso "Generation and Measurement of Intense Single-Cycle 
+ Pulses with In-Line Post-Compression Setups (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T120500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.7 Chair: Alexander Popov (Russia)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.7 L Bergé "THz Field Generation by Relativistic Plasmas Create
+ d by Two-Color Laser Pulses (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T142500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.7 D V Skryabin "Putting Lugiato-Lefever Approach into the Conte
+ xt of Frequency Comb Generation (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T142500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T145000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.7 T M Lysak "Possibility of a Femtosecond Pulse Propagation in 
+ a Nonlinear Chirped Soliton Mode in a Medium with Induced Photoluminescenc
+ e (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T145000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.7 S Yuan "Filamentation in Aqueous Gold Nano-Particle Colloidal
+ s (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T151500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T154000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.7 E S Sunchugasheva "Double UV Ultrashort Pulses Propagation in
+  Atmospheric Humid Air"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T154000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T155500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S5.7 A V Shutov "Water Vapor Driven Filamentation of 248-nm Laser 
+ Pulses in Ambient Air"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T155500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T161000
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,458 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:andrey.rakhubovsky@gmail.com
+BEGIN:VEVENT
+SUMMARY:S9.1 Chair: Bjoern Manuel Hegelich (South Korea)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 S P D Mangles "Using High Intensity Lasers to Explore Quantum
+  Electrodynamics (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T114000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 G Sarri "Radiation Reaction and High-Field Quantum Electrodyn
+ amics with Intense Lasers (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T114000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T120500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 T N Wistisen "Experimental Evidence of Quantum Radiation Reac
+ tion in Aligned Crystals (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T120500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.2 Chair: Gianluca Sarri (UK)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.2 V Yakimenko "Experimental Program at FACET-II Enabled by Its 
+ Unique Electron Beams (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T143000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.2 D Umstadter "Extremely High-Order Multiphoton Thomson Scatter
+ ing (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T143000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T150000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.2 B M Hegelich "Quantum Effects in Extreme Fields – Theory an
+ d Experiments at the Center for Relativistic Laser Science's 4PW Laser (in
+ vited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T153000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.2 M Grech "Overview of Recent Developments Around the Apollon 1
+ 0-PW Laser (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T155500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.3 Chair: Stepan Bulanov (USA)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T183000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.3 T P Yu "Petawatt Laser-Driven Bright γ-Ray Emission and Dens
+ e Positron Production in Near-Critical-Density Plasmas (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T165500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.3 M Tamburini "Giant Collimated Gamma-Ray Flashes (invited talk
+ )"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T165500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T171500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.3 L Gremillet "High-Energy Radiation Sources from Structured an
+ d Thin Targets Driven by Ultraintense Lasers (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T174500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.3 F Mackenroth "Nonlinear Compton Scattering of an Ultra-Intens
+ e Laser Pulse in a Plasma (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T174500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T180500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.3 J Vyskocil "Simulations of Bremsstrahlung in Ultra-Intense La
+ ser Interactions with Thin Foils (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T180500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T182500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.4 Chair: Christopher Ridgers (UK)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.4 R Prasad "High Intensity Laser Matter Interaction Employing D
+ ual Beam ARCTURUS Laser System (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T114000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.4 K M Spohr "Planned Day-1 Experiments with Solid Targets at EL
+ I-NP"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T114000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T120500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.4 X Ribeyre "Breit-Wheeler Pairs Creation in Gamma Photon Colli
+ sions Using Ultra-High Intensity Laser Facilities (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T120500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.5 Chair: Kensuke Homma (Japan)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.5 G G Paulus "Precision X-Ray Polarimetry for the Detection of 
+ Vacuum Birefringence (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T143000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.5 H-P Schlenvoigt "Towards Measuring Vacuum Birefringence"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T143000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T144500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.5 B King "Leptons and Photons in Quasi-Constant Fields (invited
+  talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T144500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T151000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.5 C Kohlfürst "Photon-Photon Scattering at the High-Intensity 
+ Frontier: Paraxial Beams (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T151000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T153500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.5 A Blinne "The Vacuum Emission Picture Beyond Paraxial Approxi
+ mation (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T153500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.6 Chair: Anton Ilderton (UK)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.6 B Kampfer "Strong-Field Trident Process (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T113500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.6 G Torgrimsson "Trident Pair Production in Plane Waves (invite
+ d talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T113500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.6 A Hartin "Families of Volkov-Like Solutions and Their Applica
+ tions (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.7 Chair: Felix Mackenroth (Germany)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.7 S Ter-Avetisyan "Ion Acceleration with PW-Lasers\, Progress a
+ nd Perspectives (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T142000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.7 I Yu Kostyukov "Ion Acceleration and QED Effects at Ultrahigh
+  Intensity Laser-Foil Interaction (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T142000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T144000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.7 S Bolaños "Ion Acceleration by Ultra-Intense Lasers Beyond 1
+ 0²º W/cm² (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T144000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T150500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.7 E G Gelfer "Radiation Friction Enhancement of Longitudinal Pl
+ asma Waves and Ion Acceleration (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T150500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T152000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.7 I Barth "Spectral Manipulation of Raman Amplifiers (invited t
+ alk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T152000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T154500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.7 R Capdessus "Collisionless Radiative Shock in Laser-Induced Q
+ ED Plasmas (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T154500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T160500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.8 Chair: Antonino Di Piazza (Germany)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T183000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.8 M Marklund "Radiative Effects on Particle Motion: the Case of
+  Strong Fields (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T165500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.8 S S Bulanov "Radiation Reaction and nQED Studies at the BELLA
+  Center (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T165500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T171500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.8 C P Ridgers "Towards Experimental Observation of Strong-Field
+  QED Processes with PW-Class High Intensity Lasers (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T173500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.8 T V Liseykina "Effects of Radiation Reaction on the Self-Cons
+ istent Dynamics of Laser Plasma in the Radiation-Dominated Regime (invited
+  talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T173500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T180000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.8 F Niel "Stochasticity Effects of Radiation Reaction on the Ra
+ diated Spectrum (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T182000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.8 L Ansell "Relativistic Charge Motion in Laser Fields (invited
+  talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T182000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T183000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.9 Chair: Ben King (UK)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T103000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.9 R Schuetzhold "Dynamically Assisted Sauter-Schwinger Effect (
+ invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T103000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T110000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.9 D Blaschke "Kinetic Equation Approach to Particle Production 
+ – From Laser to Heavy-Ion Colliders (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T110000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T112500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.9 H R Reiss "Pairs from the Vacuum (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T112500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T115000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.9 K Krajewska "Diffraction at a Time Grating in the Dynamical S
+ auter-Schwinger Process (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T115000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T121000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.9 I A Aleksandrov "Dynamically Assisted Schwinger Mechanism Bey
+ ond the Spatially-Uniform-Field Approximation"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T121000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 Chair: Alexander Fedotov (Russia)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 N Ahmadiniaz "One-Particle Reducible Contribution to the Elec
+ tron Propagator in a Constant Background Field"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T142000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 J P Edwards "Reducible Tadpole Contributions in Constant Fiel
+ d QED (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T142000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T144500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 S Meuren "Probing Nonperturbative Strong-Field QED Effects wi
+ th Collider Experiments (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T144500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T150500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 C Baumann "Entering the Fully Non-Perturbative QED Regime α
+ χ\\^2/3∼1 with QED-PIC Simulations (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T150500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T152000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 F Del Gaudio "Disruption\, Beamstrahlung and Pair Production 
+ in Beam-Beam Collisions (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T152000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T154000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 A A Mironov "On Strong-Field Behavior of Radiation Correction
+ s in QED (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T154000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 Chair: Micka
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T193000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 A Ilderton "Particle Dynamics in Electromagnetic Vortices and
+  Gravitational Waves (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T165500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 A M Fedotov "Spin Effects in Schwinger Pair Production: Quant
+ um Kinetics vs Imaginary Time (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T165500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T171500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 A Di Piazza "On the Validity of the Local Constant Field Appr
+ oximation in Nonlinear Compton Scattering (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T174500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 E Raicher "Testing the Semi-Classical and the Constant-Crosse
+ d-Field Limits of Radiation (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T174500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T180500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 H Ruhl "A Novel Radiation Reaction Force and Quantum Correcti
+ ons (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T180500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T182500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 A Noble "Entropic Considerations of Radiation Reaction (invit
+ ed talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T182500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T184500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 K Liu "Angular Momentum of Radiation Vortices from Nonlinear 
+ Thomson Scattering with Arbitrary Incident Angle"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T184500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T185500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 J Magnusson "Interaction of Electron Beams with Optimally Foc
+ used Laser Radiation in the QED Regime (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T185500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T192000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 Chair: Mattias Marklund (Sweden)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T091500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T104500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 S V Popruzhenko "Measurement of Ultrahigh Laser Intensities w
+ ith Multiple Ionization of Heavy Atoms (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T091500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T094000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 C N Harvey "Characterisation of Intense Laser Pulses in the R
+ adiation Reaction Dominated Regime (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T094000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T100000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 T G Blackburn "Benchmarking Semiclassical Approaches to Stron
+ g-Field QED (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T100000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T102000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 K Z Hatsagortsyan "Single-Shot Carrier-Envelope Phase Determi
+ nation of Long Superintense Laser Pulses (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T102000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T104000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 Chair: David Burton (UK)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 Y Wu "Nuclear Excitation by Electron Capture in Laser-Generat
+ ed Plasmas"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T114000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 K Homma "Probing Dark Components in the Universe in a Wide Ma
+ ss Range from 10\\^{-7} eV to 10\\^4 eV with Multi-Wavelength Lasers (invi
+ ted talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T114000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T120500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 J Maurer "Linear Momentum Transfer in Multiphoton Strong-Fiel
+ d Ionization with Subcycle Time Resolution (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T120500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 Chair: Adam Noble (UK)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 A J Macleod "Cherenkov Radiation from the Quantum Vacuum (inv
+ ited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T142500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 D A Burton "A New Laser-Plasma-Based Approach to Light-Shinin
+ g-Through-Wall Searches for Axion-Like Particles (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T142500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T144500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S9.1 B M Dillon "ALP Production Through Non-Linear Compton Scatter
+ ing in Intense Fields"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T144500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T150500
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,435 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:andrey.rakhubovsky@gmail.com
+BEGIN:VEVENT
+SUMMARY:S7.1 Chair: Marco Genovese (Italy)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 U L Andersen "Quantum Magnetometry Using Nitrogen-Vacancy Cen
+ ters in Diamond (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T114000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 Y-H Kim "Experimental Demonstration of Quantum Stationary Lig
+ ht Pulses in an Atomic Ensemble (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T114000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T121000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 M Karpiński "Electro-Optic Temporal Optical Systems for Spec
+ tral Shaping of Quantum Light (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T121000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.2 Chair: Yoon
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.2 M Genovese "Tomography of Pseudodensity Operators and Experim
+ ental Simulation of OTC PDO (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T143000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.2 P Grangier "Recent Progress in Continuous Variable Quantum Cr
+ yptography (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T143000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T150000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.2 V Tamma "Toward “Real World” Quantum Computational Suprem
+ acy and Quantum Enhanced Sensing with Linear Optics Multiphoton Interferom
+ etry (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T153000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.2 M Żukowski "Entanglement Indicators for Quantum Optics Invol
+ ving Stokes Parameters (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.3 Chair: Philippe Grangier (France)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T183000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.3 J Fiurášek "Experimental Demonstration of Photonic Quantum 
+ Fredkin Gate and Its Applications (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T165500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.3 Y-W Cho "Direct Quantum Process Tomography via Measuring Sequ
+ ential Weak Values of Incompatible Observables (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T165500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T171500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.3 S Padua "Robustness of the Fractional Topological Phase to De
+ phasing Noise: Theory and Experiment (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T174500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.3 M Bondani "Quantum-State Tomography with Homodyne-Like Detect
+ ion (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T174500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T180500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.3 W-T Liao "Optimization of X-Ray Forward Echo (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T180500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T183000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.4 Chair: Maria Chekhova (Germany)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.4 S Varró "Planck Entropy Expressed by the Hausdorff Dimension
+  of the Set of Average Excitation Degrees of a Two Level Atom in Thermal E
+ quilibrium (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T114500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.4 S S Straupe "Reconfigurable Laser-Written Integrated Photonic
+  Circuits (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T114500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.4 Y H Shih "The Physics of Turbulence-Free Interference and Ima
+ ging (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.5 Chair: Yanhua Shih (USA)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.5 A Stefanov "Super-Resolution Quantum Imaging at the Heisenber
+ g Limit (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T142500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.5 K Hakuta "Cavity QED on an Optical Nanofiber"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T142500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T145000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.5 V Parigi "Quantum Optical Frequency Comb and Implementation o
+ f Quantum Complex Networks (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T145000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.5 F Koenig "Spontaneous Emission in Optical Analogue Gravity Sy
+ stems (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T151500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T153500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.5 A Tomita "Characterization and Security Certification of a Pr
+ actical Quantum Key Distribution System (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T153500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.6 Chair: Dmitry Strekalov (Germany)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.6 C H Monken "Photonic Counterparts of Cooper Pairs (invited ta
+ lk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T114500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.6 P Mataloni "Simulating Non-Markovian Dynamics of Open Quantum
+  Systems by a Double Sagnac Multipass Interferometer (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T114500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T121000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.6 L Motka "Efficient Tomography with Unknown Detectors (invited
+  talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T121000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.7 Chair: Carlos Monken (Brazil)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.7 D Strekalov "On Spectral and Dynamical Properties of Sub-Thre
+ shold OPOs (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T142500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.7 J Laurat "Coupling a Single Collective Excitation of Atomic A
+ rrays to a Nanoscale Waveguide (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T142500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T145000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.7 Y Miyamoto "Probing the Orbital Angular Momentum Spectrum of 
+ Incoherent Mixtures (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T145000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T151000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.7 J P Torres "Correlations and Coherence (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T151000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T153000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.7 A Beige "Scattering Light Through Semi-Transparent Mirrors (i
+ nvited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.8 Chair: Juan Torres (Spain)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T183000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.8 M V Fedorov "Temporal Combs in the Hong-Ou-Mandel Effect in N
+ oncollinear and Frequency-Nondegenetate Spontaneous Parametric Down-Conver
+ sion (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T165000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.8 F Plastina "Thermodynamics of Classical and Quantum Correlati
+ ons (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T165000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T172000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.8 Yu I Bogdanov "The Provision of Quality and Effectiveness of 
+ Quantum Information Technologies by Means of Quantum Measurements (invited
+  talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T172000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T174500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.8 K G Katamadze "Multiphoton Subtracted Thermal States as a Tes
+ ting Area in Quantum Optics (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T174500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T180500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.8 A Cavanna "Generation of Two- and Three-Photon States in Thin
+  Crystal Layers"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T180500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T183000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.9 Chair: Paolo Mataloni (Italy)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T103000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.9 I A Burenkov "Violation of Shannon Limit with Quantum-Enhance
+ d Measurements (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T103000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T105000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.9 L C Kwek "Enhancing the Performance of a Self-Sustained Oscil
+ lator Through a Squeezing Hamiltonian (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T105000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T111500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.9 Y S Teo "Adaptive Compressed-Sensing Tomography with no A Pri
+ ori Information (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T114000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.9 M V Chekhova "Pumping Nonlinear Effects with Squeezed Vacuum:
+  Enhanced Efficiency and Extreme Events (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T114000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T121000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.9 S V Polyakov "First Nonclassical Light Detection in a Practic
+ al Flow Cytometer (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T121000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 Chair: Julien Laurat (France)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 O V Tikhonova "Schmidt Mode Description and Photon Correlatio
+ ns in Strongly Non-Degenerate Parametric Down-Conversion (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T142000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 A A Rakhubovsky "Pulsed Continuous-Variable Optoelectromechan
+ ical Transducer Based on Geometric Phase Effect (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T142000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T144000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 R Keil "Symmetries in Many-Photon Interference (invited talk)
+ "
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T144000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T151000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 L Davidovich "Quantum Metrology in Phase Space (invited talk)
+ "
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T151000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T154000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 K S Kravtsov "Spatially Multiplexed Free-Space Quantum Channe
+ ls in Turbulent Atmosphere (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T154000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 Chair: Marek Zukowski (Poland)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T193000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 M Stobinska "Quantum Interference Enables Constant-Time Infor
+ mation Processing (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T165500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 T Gehring "9 Gbit/s Real-Time Quantum Random Number Generator
+  Based on Vacuum Fluctuations"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T165500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T172500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 P Marek "Nonlinear Squeezing for Quantum Information Processi
+ ng (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T172500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 R V Zakharov "Selection of Spatial Modes in Bright Squeezed S
+ tates of Light"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T182000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 I Ruo-Berchera "Quantum Enhanced Correlated Interferometry: t
+ he First Feasibility Test (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T182000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T184500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 A Ferreri "Photon Sensing with Using Bright Squeezed Light in
+  an Integrated SU(1\,1) Interferometer"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T184500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T191000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 A Allevi "Testing Nonclassicality of Mesoscopic Twin-Beam Sta
+ tes with Silicon Photomultipliers (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T191000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T193000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 Chair: Yoko Miyamoto (Japan)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T091500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T104500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 T Ono "Non-Linear Interference on Silicon Waveguide (invited 
+ talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T091500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T094000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 Q Wang "Practical Measurement-Device-Independent Quantum Key 
+ Distribution with Heralded Single-Photon Sources (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T094000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T100500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 Chair: Luiz Davidovich (Brazil)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 E Meyer-Scott "Waveguide Sources of Entangled and Unentangled
+  Photon Pairs (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T114000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 A C Leung "Multiparameter Optimisation of a Magneto-Optical T
+ rap Using Deep Learning Artificial Neural Networks (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T114000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T120500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 M Bina "Quantum Probing of Structured Environments (invited t
+ alk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T120500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 Chair: Leong Chuan Kwek (Singapore)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 V M Porozova "On a Theory of the Raman Sideband Cooling of a 
+ Single Atom in a Dipole Trap"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T142500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 K A Kuznetsov "Generation and Detection of Optical-Terahertz 
+ Photon Pairs Via Spontaneous Parametric Down Conversion (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T142500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T145000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 S Olivares "Squeezing As a Resource for Phase-Shift-Keyed Bin
+ ary Communication in Noisy Channels (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T145000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 S V Vintskevich "Entanglement Properties of Biphotons in SPDC
+  Process Affected by Quantized Mixed Pump"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T151500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T153500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S7.1 D Stefanatos "Boosting Entanglement Between Exciton-Polariton
+ s with on-off Switching of Josephson Coupling"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T153500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T155500
+END:VEVENT
+END:VCALENDAR

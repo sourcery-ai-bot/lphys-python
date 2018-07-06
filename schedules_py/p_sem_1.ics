@@ -1,0 +1,450 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:andrey.rakhubovsky@gmail.com
+BEGIN:VEVENT
+SUMMARY:S1.1 Chair: Philippe Grangier (France)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 L Davidovich "Quantum-Enhanced Sensing from Hyperentanglement
+  (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T114000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 M S Zubairy "Quantum State Reconstruction of a Mechanical Mir
+ ror in a Hybrid System (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T114000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T120500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 M Reid "Mesoscopic EPR Steerable States (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T120500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.2 Chair: Suhail Zubairy (USA)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.2 V Akulin "Nonlinear Coupling of Photons via a Collective Mode
+  of Transparent Superconductor (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T142500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.2 G Kurizki "Quantum Thermodynamics Under Control (invited talk
+ )"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T142500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T145000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.2 A Tiranov "Simultaneous Coherence Enhancement of Optical and 
+ Microwave Transitions in Solid-State Electronic Spins (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T145000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.2 D V Sychev "Interfacing Discrete- and Continuous-Variable Enc
+ odings in Quantum Optics (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T151500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T153000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.2 Y-S Ra "Generation of Non-Gaussian Quantum States of Multimod
+ e Light Field (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T155500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.3 Chair: Luiz Davidovich (Brazil)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T183000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.3 I Novikova "Generation of the Spatially Multimode Squeezed Li
+ ght in Hot Rb Vapor (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T165500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.3 V S Malinovsky "Entanglement Distribution Rates Using Quantum
+  Repeaters Based on Two-Species Trapped Ions (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T165500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T172000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.3 Y Kurochkin "Urban Quantum Cryptography with Polarization Sta
+ tes (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T172000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T173500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.3 A M Akulshin "Continuous-Wave Mirrorless Lasing in Two-Photon
+  Excited Alkali Vapours (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T173500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.3 S A Malinovskaya "Generation of Entanglement in a Three-Atomi
+ c Rb Chain Via Chirped Optical Pulses (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T181500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.3 E E Mikhailov "From Vibration Insensitive Laser to the Cavity
+  Length Change Enhanced Sensitivity (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T181500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T183000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.4 Chair: Jon Marangos (UK)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.4 S Varró "Planck’s Interpolation Formula for Black-Body Rad
+ iation Is Revisited (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T114000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.4 A Dogariu "Atmospheric Backwards Air Lasing from Argon (invit
+ ed talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T114000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T120500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.4 T Pfeifer "Extracting Time-Dependent Non-Perturbative Non-Lin
+ ear Response Functions from Spectral Measurements (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T120500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.5 Chair: Thomas Pfeifer (Germany)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.5 J P Marangos "Time-Resolved X-Ray Spectroscopy: Towards Sub-F
+ emtosecond Resolution (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T142500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.5 O Kocharovskaya "Amplification of Attosecond High-Harmonic X-
+ Ray Pulses by Plasma-Based X-Ray Lasers (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T142500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T144500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.5 U Thumm "Streaked and Interferometric Photoemission from Soli
+ d Surfaces and Nanoparticles (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T144500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T151000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.5 B C Walker "Atoms and Molecules in Ultra-Strong Laser Fields:
+  Modeling\, Spectroscopy\, and a Move to the Inner Shell Ion (invited talk
+ )"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T151000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T153500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.5 D B Milošević "The Influence of the Driving-Bicircular-Fiel
+ d Component Intensities on the Helicities of Emitted High-Order Harmonics"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T153500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T155500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.5 A Palffy "Rabi Oscillations of X-Ray Radiation Between Two Nu
+ clear Ensembles (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T155500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T161500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.6 Chair: Vladimir Malinovsky (USA)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.6 P Hemmer "Biosensing with Nano-Diamonds and Nano-Phosphors (i
+ nvited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T113500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.6 Q Li "Enabling Diamond Quantum Sensing at Elevated Temperatur
+ es (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T113500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T115500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.6 A V Akimov "Highly Efficient Dielectric Resonator Antenna for
+  Ensembles of Nitrogen – Vacancy Color Centers in Diamond (invited talk)
+ "
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T115500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T121500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.6 D V Popolitova "Coherent Population Trapping Induced by Non-C
+ lassical Light in Three-Level Atomic System"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T121500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.7 Chair: Nina Rohringer (Germany)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.7 C H Keitel "Nuclear Excitation and Narrow-Band Hard-X-Ray Las
+ ing (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T142000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.7 R Röhlsberger "Quantum Imaging with X-Rays (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T142000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T144500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.7 Y Shvyd'ko "Self-Seeded Hard X-Ray Free-Electron Lasers - Pre
+ sent and Future (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T144500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T151000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.7 S Shwartz "Ghost Imaging with Paired X-Ray Photons (invited t
+ alk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T151000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T153500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.7 J Evers "Shaping the Spectra of Short X-Ray Pulses by Mechani
+ cal Means (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T153500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.8 Chair: J
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T183000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.8 A Klisnick "Pulse Duration Encoding in Linear Autocorrelation
+  Measurements of Partially Coherent XUV Sources (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T165500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.8 N Rohringer "XUV Superradiance of Noble Gases and Noble-Gas C
+ lusters (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T165500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T172000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.8 D Neely "Laser Accelerated Sources and Applications (invited 
+ talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T172000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T174500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.8 A Benediktovitch "Collective Spontaneous Emission from Medium
+  Irradiated by Short FEL Pulses: Theoretical Model and Application to Xe G
+ as Experiment"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T174500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T181000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.8 R Ooi "Interference Features of Electron Wavepacket in Intens
+ e Laser Fields with Arbitrary Polarization (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T181000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T183000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.9 Chair: Philip Hemmer (USA)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T103000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.9 A Afanasev "Selective Population of Atomic Zeeman Sublevels U
+ sing Twisted Photons (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T103000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T105000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.9 K Hakuta "Hybrid System of an Optical Nanofibre and a Single 
+ Quantum Dot Operated at Cryogenic Temperatures (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T105000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T111500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.9 P Goldner "Electron Spin Coherence in Optically Excited State
+ s of Rare-Earth Ions (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T113500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.9 D Serrano "Rare-Earth Doped Nanoparticles with Millisecond-Lo
+ ng Spin Coherence Lifetime (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T113500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T115000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.9 T Nakajima "In-Situ Synthesis of Polymer-Metal Nanocomposite 
+ Films Using o Mid-IR Laser (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T115000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T120500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.9 M G Gladush "Probing the Local Field Fluctuations in Frozen S
+ olid Films with Single Molecules"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T120500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T122500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 Chair: Alexei Sokolov (USA)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 J Tredicce "Laser as a Test Bench to Study Indicators of Extr
+ eme Events and Bifurcations (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T142500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 Y Rostovtsev "Frequency Shift of an Optical Cavity Mode Due t
+ o a Single Atom Motion (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T142500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T144500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 W-T Liao "Transition from Amplification of Spontaneous Emissi
+ on to Superfluorescence in Swept Atomic Excitation (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T144500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T151000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 W F McGrew "Ytterbium Optical Lattice Clocks Supporting 1×10
+ \\^-18 Frequency Comparisons (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T151000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T153000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 E S Fry "Integrating Cavities and Ring-Down Spectroscopy (inv
+ ited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T155000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 Chair: Edward Fry (USA)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T193000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 A Materny "Metal-Molecule Coupling Investigated in Frequency 
+ and Time Domain (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T165500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 A V Sokolov "Molecular Modulation with Spatio-Temporal Shapin
+ g of Optical Fields (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T165500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T171500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 A Volkmer "Time-Resolving Ultrafast Plasmon Dephasing in Sing
+ le Gold Nanoparticles (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T173500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 D Strickland "Rabi Frequency Shifted Raman Spectra (invited t
+ alk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T173500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 D Kurouski "Detection and Identification of Crop Diseases by 
+ Raman Spectroscopy (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T181500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 S K Sekatskii "Photonic Crystal Supported Surface Electromagn
+ etic Waves and Their Use for Ultrasensitive Label-Free Biosensing and Gene
+ ration of Long Propagating Surface Plasmon - Polaritons (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T181500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T183500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 A Rebane "Femtosecond Two-Photon Absorption Spectroscopy Prob
+ es Molecular Electron Charge Transfer (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T183500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T185500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 A A Kolomenskii "Trace Gas Detection in the Atmosphere with A
+ bsorption Spectroscopy in the Near- and Mid-IR (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T185500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T191500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 Chair: Alexey Akimov (USA)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T091500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T104500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 P Cheinet "Few-Body Interactions in a Cold Rydberg Gas  (inv
+ ited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T091500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T094000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 R Gutiérrez-Jáuregui "Dissipative Quantum Phase Transitions
+  of Light in a Generalized Jaynes-Cummings-Rabi Model (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T094000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T100000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 M Marcuzzi "Non-Equilibrium Phase Transitions in Laser-Driven
+  Rydberg Atoms (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T100000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T102000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 R K Hanley "A Rydberg-Dressed Magneto-Optical Trap (invited t
+ alk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T102000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T104000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 Chair: Yuri Rostovtsev (USA)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 S M Shahriar "Interference at Decillion Hz Compton Frequency:
+  Enhancing Sensitivity of an Atomic Interferometer to the Heisenberg Limit
+  using Increased Quantum Noise (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T114000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 F Li "Three-Photon Emission and Correlation via Frequency Dow
+ n-Conversion in a Sagnac Interferometer (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T114000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.1 J P Torres "Optical Coherence Tomography with Nonlinear Inter
+ ferometers (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T122000
+END:VEVENT
+END:VCALENDAR

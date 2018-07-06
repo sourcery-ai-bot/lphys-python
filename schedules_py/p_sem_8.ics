@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:andrey.rakhubovsky@gmail.com
+BEGIN:VEVENT
+SUMMARY:S8.1 Chair: Dmitry Churkin (Russia)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S8.1 Y Glick "1.2 kW Clad-Pumped Raman All-Fiber Laser with Bright
+ ness Enhancement (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T114500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S8.1 P Peterka "Dynamic Fiber Gratings in Fiber Lasers  (invited 
+ talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T114500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T121500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S8.1 A Kir'yanov "Highly-Effective 2.05-μm Holmium Fiber Laser Pu
+ mped by 1.13-μm Ytterbium Fiber Laser"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T121500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T123000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S8.2 Chair: Pavel Peterka (Czech Republic)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T160000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S8.2 M Chernysheva "Quasi-Lossless Ultra Long Mode-Locked Erbium-D
+ oped Fibre Laser (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T142500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S8.2 L M Zhao "Continuously Vibrating Scalar Solitons in a Tm Fibe
+ r Laser (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T142500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T145000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S8.2 O Pottiez "Numerical Study of Complex Noiselike Pulse Dynamic
+ s in a Partially Mode-Locked Fiber Laser"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T145000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S8.2 M Duran-Sanchez "Dissipative Soliton Resonance in an Anomalou
+ s Dispersion Passively Mode-Locked Thulium-Doped Fiber Laser"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T151500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T153500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S8.2 B Posada Ramirez "Tunable Dual-Wavelength Laser with Double-C
+ ladding Thulium Doped Fiber Using Two FBG"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T153500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T155000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S8.3 Chair: Luming Zhao (China)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T183000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S8.3 S Boscolo "Characterisation and Mitigation of Self-Phase Modu
+ lation in Optical Fibres (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T170000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S8.3 D Churkin "PT-Symmetric Coupled Raman Fiber Lasers"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T171500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S8.3 D S Kharenko "Spatial Beam Self-Cleaning Conditions in Multim
+ ode Graded-Index Fibers with Different Core Diameter"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T173000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S8.3 S A Babin "Random Lasing in a LD-Pumped Multimode Fiber Raman
+  Laser"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T173000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T175000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S8.3 I S Terekhov "Capacity of the Nondispersive Nonlinear Optical
+  Channel and Its' Dependence on the Form of Initial Signal"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T175000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T181000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S8.3 A V Reznichenko "Investigation of Nonlinear Communication Cha
+ nnel with Small Dispersion via Stochastic Correlator Approach"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T181000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T183000
+END:VEVENT
+END:VCALENDAR
