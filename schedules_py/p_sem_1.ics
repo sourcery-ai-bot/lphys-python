@@ -105,20 +105,21 @@ DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T111500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T123000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S1.4 S Varró "Planck’s Interpolation Formula for Black-Body Rad
- iation Is Revisited (invited talk)"
+SUMMARY:S1.4 A Dogariu "Atmospheric Backwards Air Lasing from Argon (invit
+ ed talk)"
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T111500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T114000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S1.4 A Dogariu "Atmospheric Backwards Air Lasing from Argon (invit
- ed talk)"
+SUMMARY:S1.4 T Pfeifer "Extracting Time-Dependent Non-Perturbative Non-Lin
+ ear Response Functions from Spectral Measurements (invited talk)"
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T114000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T120500
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S1.4 T Pfeifer "Extracting Time-Dependent Non-Perturbative Non-Lin
- ear Response Functions from Spectral Measurements (invited talk)"
+SUMMARY:S1.4 D B Milošević "The Influence of the Driving-Bicircular-Fiel
+ d Component Intensities on the Helicities of Emitted High-Order Harmonics 
+ (invited talk)"
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T120500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T123000
 END:VEVENT
@@ -150,19 +151,19 @@ SUMMARY:S1.5 B C Walker "Atoms and Molecules in Ultra-Strong Laser Fields:
   Modeling\, Spectroscopy\, and a Move to the Inner Shell Ion (invited talk
  )"
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T151000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T153500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T153000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S1.5 D B Milošević "The Influence of the Driving-Bicircular-Fiel
- d Component Intensities on the Helicities of Emitted High-Order Harmonics"
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T153500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T155500
+SUMMARY:S1.5 A Föhlisch "Getting the “t” into S(q\,w\,t): Dynamic Pat
+ hways on Multidimensional Potential Surfaces (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T155000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S1.5 A Palffy "Rabi Oscillations of X-Ray Radiation Between Two Nu
  clear Ensembles (invited talk)"
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T155500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T161500
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T155000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T161000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S1.6 Chair: Vladimir Malinovsky (USA)
@@ -270,8 +271,8 @@ DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T103000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T123000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S1.9 A Afanasev "Selective Population of Atomic Zeeman Sublevels U
- sing Twisted Photons (invited talk)"
+SUMMARY:S1.9 R Gutiérrez-Jáuregui "Dissipative Quantum Phase Transitions
+  of Light in a Generalized Jaynes-Cummings-Rabi Model (invited talk)"
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T103000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T105000
 END:VEVENT
@@ -294,16 +295,16 @@ DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T113500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T115000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S1.9 T Nakajima "In-Situ Synthesis of Polymer-Metal Nanocomposite 
- Films Using o Mid-IR Laser (invited talk)"
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T115000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T120500
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:S1.9 M G Gladush "Probing the Local Field Fluctuations in Frozen S
  olid Films with Single Molecules"
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T120500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T122500
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T115000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T121000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1.9 S Varró "Planck’s Interpolation Formula for Black-Body Rad
+ iation Is Revisited (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T121000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T123500
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S1.1 Chair: Alexei Sokolov (USA)
@@ -406,20 +407,20 @@ DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T091500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T094000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S1.1 R Gutiérrez-Jáuregui "Dissipative Quantum Phase Transitions
-  of Light in a Generalized Jaynes-Cummings-Rabi Model (invited talk)"
+SUMMARY:S1.1 M Marcuzzi "Non-Equilibrium Phase Transitions in Laser-Driven
+  Rydberg Atoms (invited talk)"
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T094000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T100000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S1.1 M Marcuzzi "Non-Equilibrium Phase Transitions in Laser-Driven
-  Rydberg Atoms (invited talk)"
+SUMMARY:S1.1 R K Hanley "A Rydberg-Dressed Magneto-Optical Trap (invited t
+ alk)"
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T100000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T102000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S1.1 R K Hanley "A Rydberg-Dressed Magneto-Optical Trap (invited t
- alk)"
+SUMMARY:S1.1 T Nakajima "In-Situ Synthesis of Polymer-Metal Nanocomposite 
+ Films Using o Mid-IR Laser (invited talk)"
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180720T102000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180720T104000
 END:VEVENT

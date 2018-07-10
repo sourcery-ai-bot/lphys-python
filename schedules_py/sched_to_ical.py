@@ -138,6 +138,7 @@ def parse_file(fname):  # {{{
 
     global cal
     cal = Calendar()
+    # The following two lines are required
     cal.add('prodid', 'andrey.rakhubovsky@gmail.com')
     cal.add('version', '2.0')
     global day

@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:andrey.rakhubovsky@gmail.com
 BEGIN:VEVENT
-SUMMARY:S9.1 Chair: Bjoern Manuel Hegelich (South Korea)
+SUMMARY:S9.1 Chair: Igor Kostyukov (Russia)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T111500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T123000
 END:VEVENT
@@ -60,8 +60,8 @@ DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T163000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T183000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S9.3 T P Yu "Petawatt Laser-Driven Bright γ-Ray Emission and Dens
- e Positron Production in Near-Critical-Density Plasmas (invited talk)"
+SUMMARY:S9.3 I Barth "Spectral Manipulation of Raman Amplifiers (invited t
+ alk)"
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T163000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T165500
 END:VEVENT
@@ -90,7 +90,7 @@ DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T180500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T182500
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S9.4 Chair: Christopher Ridgers (UK)
+SUMMARY:S9.4 Chair: Evgeny Gelfer (Czech Republic)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180717T111500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180717T123000
 END:VEVENT
@@ -195,19 +195,19 @@ BEGIN:VEVENT
 SUMMARY:S9.7 E G Gelfer "Radiation Friction Enhancement of Longitudinal Pl
  asma Waves and Ion Acceleration (invited talk)"
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T150500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T152000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T152500
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S9.7 I Barth "Spectral Manipulation of Raman Amplifiers (invited t
- alk)"
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T152000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T154500
+SUMMARY:S9.7 T P Yu "Petawatt Laser-Driven Bright γ-Ray Emission and Dens
+ e Positron Production in Near-Critical-Density Plasmas (invited talk)"
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T152500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T155000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S9.7 R Capdessus "Collisionless Radiative Shock in Laser-Induced Q
  ED Plasmas (invited talk)"
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T154500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T160500
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180718T155000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180718T161000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S9.8 Chair: Antonino Di Piazza (Germany)
@@ -368,16 +368,10 @@ DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T182500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T184500
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S9.1 K Liu "Angular Momentum of Radiation Vortices from Nonlinear 
- Thomson Scattering with Arbitrary Incident Angle"
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T184500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T185500
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:S9.1 J Magnusson "Interaction of Electron Beams with Optimally Foc
  used Laser Radiation in the QED Regime (invited talk)"
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T185500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T192000
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T184500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T191000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S9.1 Chair: Mattias Marklund (Sweden)
