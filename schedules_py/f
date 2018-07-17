@@ -1,0 +1,10 @@
+#!/usr/bin/env zsh
+
+fname="$1"
+
+< $fname \
+	| sed -e '/^</,$d' \
+	| sed -e '/Accepted Talks/,$d' \
+	| perl -pe 's/.* (.*?day, \d\d July, 2018).*/\n\1/' \
+	| perl -pe 's/.*(\d\d:\d\d).*?(\d\d:\d\d).*\[(.*?)\]\{style="text-decoration.*?\*(.*?)\*.*Abstract.*/\1 - \2 ; \3 ; \4/' \
+	| perl -pe 's/.*([SPLl]+\d\.\d).*(\d\d:\d\d).*?(\d\d:\d\d).*?Chair.*?: (.*?)]\{style.*/\n\2 - \3 ; \1 Chair: \4/'

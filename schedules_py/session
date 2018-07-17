@@ -1,0 +1,10 @@
+#!/usr/bin/env zsh
+
+session="$1"
+nextsess=$(($1 +1 ))
+
+for i in 1 2 7; do 
+	echo ::: Seminar $i :::
+	./f p_sem_$i.md | sed -n -e /S$i.$session/,/S$i.$nextsess/p | head -n -2
+	echo 
+done
