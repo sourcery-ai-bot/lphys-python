@@ -264,8 +264,8 @@ DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T103000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T105000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S7.9 L C Kwek "Enhancing the Performance of a Self-Sustained Oscil
- lator Through a Squeezing Hamiltonian (invited talk)"
+SUMMARY:S7.9 M Stobinska "Quantum Interference Enables Constant-Time Infor
+ mation Processing (invited talk)"
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T105000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T111500
 END:VEVENT
@@ -288,7 +288,7 @@ DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T121000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T123000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S7.1 Chair: Paolo Mataloni (Italy)
+SUMMARY:S7.1 Chair: Alexey Kalachev (Russia)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T140000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T160000
 END:VEVENT
@@ -328,8 +328,8 @@ DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T163000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T193000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S7.1 M Stobinska "Quantum Interference Enables Constant-Time Infor
- mation Processing (invited talk)"
+SUMMARY:S7.1 L C Kwek "Enhancing the Performance of a Self-Sustained Oscil
+ lator Through a Squeezing Hamiltonian (invited talk)"
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180719T163000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180719T165500
 END:VEVENT
