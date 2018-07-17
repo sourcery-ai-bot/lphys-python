@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:andrey.rakhubovsky@gmail.com
 BEGIN:VEVENT
-SUMMARY:S5.1 Chair: Vladimir Makarov (Russia)
+SUMMARY:S5.1 Chair: Viacheslav Morozov (Russia)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T111500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T123000
 END:VEVENT
@@ -47,8 +47,8 @@ DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T145000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T151500
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S5.2 Y Liu "Resonance-Enhanced Harmonics from Air Plasma Pumped by
-  Mid-Infrared Femtosecond Pulses (invited talk)"
+SUMMARY:S5.2 A Nguyen "Production of THz Radiation from Mid- and Far-Infra
+ red Two-Color Femtosecond Pulses in Air (invited talk)"
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T151500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T154000
 END:VEVENT
@@ -67,37 +67,31 @@ BEGIN:VEVENT
 SUMMARY:S5.3 V B Morozov "Spectroscopic Characterization of Surface Adsorb
  ate and Liquid Clusters in Small Mesopores (invited talk)"
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T163000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T165000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T165500
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S5.3 A Dogariu "Standoff Detection and Optical Diagnostics via Coh
  erent Raman Spectroscopy"
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T165000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T171000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S5.3 A Nguyen "Production of THz Radiation from Mid- and Far-Infra
- red Two-Color Femtosecond Pulses in Air (invited talk)"
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T171000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T173500
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T165500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T172000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S5.3 E Siminos "Generation of Intense Mid-Infrared Sub-Cycle Pulse
  s by Electron Beam Driven Amplification of THz Radiation (invited talk)"
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T173500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T180000
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T172000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T174500
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S5.3 A Popov "Generation and Amplification of the THz Radiation by
   Intense Two-Color Laser Fields (invited talk)"
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T182000
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T174500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T181000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S5.3 V I Kovalev "Peculiarities of the Pump-Probe Technique for Br
  illouin Scattering Spectroscopy"
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T182000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T183500
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20180716T181000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20180716T182500
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S5.4 Chair: G
