@@ -1,0 +1,24 @@
+#!/bin/zsh
+
+revOld=$1
+revNew=$2
+
+
+old=$(mktemp oldXXX.txt)
+new=$(mktemp newXXX.txt)
+
+cmpr(){
+git show "$revOld":schedules_py/p_sem_$1.md | ./f > $old
+git show "$revNew":schedules_py/p_sem_$1.md | ./f > $new
+
+diff $old $new
+}
+
+for i in {1..9}
+do 
+	echo ::: Seminar $i
+	cmpr $i
+	echo 
+done
+
+rm $old $new

@@ -1,8 +1,8 @@
 #!/usr/bin/env zsh
 
-fname="$1"
+# fname="$1"
 
-< $fname \
+<&0 \
 	| sed -e '/^</,$d' \
 	| sed -e '/Accepted Talks/,$d' \
 	| perl -lpe 's/.* (.*?day, \d\d July, 2018).*/\n\1/' \
