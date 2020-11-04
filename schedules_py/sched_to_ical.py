@@ -124,7 +124,7 @@ def parse_line(lstr):  # {{{
 
 
 # }}}
-def parse_file(fname):  # {{{
+def parse_file(fname):    # {{{
     """ Takes markdown with schedule and outputs ical
 
     :fname: TODO
@@ -148,10 +148,9 @@ def parse_file(fname):  # {{{
         for line in f.readlines():
             parse_line(line)
 
-    fe = open(os.path.join(directory, calname), 'wb')
-    # print(fe)
-    fe.write(cal.to_ical())
-    fe.close()
+    with open(os.path.join(directory, calname), 'wb') as fe:
+        # print(fe)
+        fe.write(cal.to_ical())
 
 
 # }}}
